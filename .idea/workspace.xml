@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="404b7103-80ff-40e4-bcdd-519ba72c4f5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
-    </list>
+    <list default="true" id="404b7103-80ff-40e4-bcdd-519ba72c4f5a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,14 +70,30 @@
       <workItem from="1582305806637" duration="986000" />
       <workItem from="1582308220389" duration="2251000" />
       <workItem from="1582495722018" duration="15298000" />
-      <workItem from="1582520593903" duration="214000" />
+      <workItem from="1582520593903" duration="590000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed User to example name James Baxter.">
+      <created>1582520887948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582520887948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed User to example name James Baxter." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed User to example name James Baxter." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="277" y="96" key="#Notifications" timestamp="1582520940339">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="96" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1582520940339" />
     <state x="148" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582497604141">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
